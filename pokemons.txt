@@ -3,3 +3,5 @@ Squirtle
 New
 Newtwo
 Gengar
+Pikachu
+Eevee
